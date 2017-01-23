@@ -10,3 +10,6 @@ proxy-node
 * set url without " "
 * add node registery
 
+
+to do :
+dotfiles config.
