@@ -9,7 +9,7 @@ tcp-vpn
 proxy-node 
 * set url without " "
 * add node registery
-
+http://stackoverflow.com/questions/7559648/is-there-a-way-to-make-npm-install-the-command-to-work-behind-proxy
 
 to do :
 dotfiles config.
