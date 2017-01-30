@@ -16,8 +16,8 @@ bower
 to do :
 dotfiles config.
 
-{
+
   "directory": "bower_components",
   "proxy":"http://172.31.1.3:8080",
   "https-proxy":"http://172.31.1.3:8080"
-}
+
