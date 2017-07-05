@@ -7,6 +7,7 @@ tcp-vpn
 * setup necessary libraries for the same
 
 proxy-node 
+npm --proxy http://172.31.1.5:8080/ install bcrypt
 * set url without " "
 * add node registery
 http://stackoverflow.com/questions/7559648/is-there-a-way-to-make-npm-install-the-command-to-work-behind-proxy
